@@ -79,7 +79,7 @@ const Login  = ()=>{
               <Form className={styles.form}>
                 <p className={styles.formTitle}>Sign in</p>
                 <div className={styles.logoUNIVERSALSHOP}>
-              <img src='C:\Users\saugat shahi\universalshop\client\images\logoshop.html'className={styles.imageLogo}/>
+              <img src=''className={styles.imageLogo}/>
             </div>
                 <label htmlFor="email" className={styles.formLabel}>email</label>
                 <Field name="email" className={styles.input} />
