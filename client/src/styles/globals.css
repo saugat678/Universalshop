@@ -1,0 +1,9 @@
+.form{
+    display: grid;
+    width: 30%;
+    /* margin: 0px 0px 0px 0px; */
+    position: absolute;
+    padding: 15px;
+    left: 11%;
+
+}
