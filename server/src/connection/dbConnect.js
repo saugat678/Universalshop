@@ -1,7 +1,7 @@
 const mongoose = require('mongoose');
 const dbConnect = async () => {
     try {
-      const connection = await mongoose.connect('mongodb://127.0.0.1:27017/universalshopDb');
+      const connection = await mongoose.connect('mongodb://127.0.0.1:27017/Universalshop');
       if (connection) {
         console.log("connnectd to mongodb")
       }

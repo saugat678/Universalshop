@@ -16,6 +16,5 @@
     "jsonwebtoken": "^9.0.0",
     "mongoose": "^7.2.1"
   },
-  "devDependencies": {},
   "description": ""
 }
